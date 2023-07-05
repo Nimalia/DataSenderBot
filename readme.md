@@ -62,10 +62,10 @@ ___
 ![mysql logo](https://streampipes.apache.org/docs/img/pipeline-elements/org.apache.streampipes.connect.adapters.mysql.stream/icon.png)
 
 
-### **Решения:**
+### **Заметки:**
 
 1. По телеграм-боту нам нужно:
-- bot token (father-bot вам его пришлет)
+- bot token (BotFather вам его пришлет)
 - chat id (id чата можно найти в настройках, либо есть спец боты, которые вам его выведут)
 
 Вашего созданного бота необходимо добавить в группу/канал.
